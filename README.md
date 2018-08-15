@@ -1,6 +1,6 @@
 # Homework on jQuery Selectors
 
-### 1. Find all h1 elements that are children of a div element and apply a background to them. Go to the editor
+### 1. Find all h1 elements that are children of a div element and apply a background to them.
 Sample HTML :
 ```
 <body>
@@ -13,10 +13,10 @@ Sample HTML :
  </body>
 ```
 
-### 2. Set the background color of a page to red. Go to the editor
+### 2. Set the background color of a page to red.
 
 
-### 3. Hide all the input elements within a form. Go to the editor
+### 3. Hide all the input elements within the form.
 Sample HTML :
 ```
 <body>
@@ -27,3 +27,9 @@ Sample HTML :
   </form>
   </body>
 ```
+
+### 4. Use events and effects
+* Create an HTML page with both an image and button(s)
+* Make the button fade the image in and out as it is clicked
+* Add additional buttons to slide the image up and slide the image down.
+
