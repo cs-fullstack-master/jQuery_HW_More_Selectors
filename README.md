@@ -13,7 +13,7 @@ Sample HTML :
  </body>
 ```
 
-### 2. Set the background color of a page to red.
+### 2. Set the background color of the page to red.
 
 
 ### 3. Hide all the input elements within the form.
